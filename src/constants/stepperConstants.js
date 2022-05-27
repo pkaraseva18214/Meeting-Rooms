@@ -1,0 +1,1 @@
+export const steps = ['Select city & date', 'Select time', 'Select room', 'Enter title & descr.'];
